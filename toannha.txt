@@ -1,0 +1,1 @@
+ phong: 305toa nhaa1 ten: le van anso kW: 100 tong: 159500.0 phong: 12toa nha12 ten: 12so kW: 12 tong: 19140.0
